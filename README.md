@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Meghana-v27/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Meghana-v27/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
