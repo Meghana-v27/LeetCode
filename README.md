@@ -27,9 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Meghana-v27/LeetCode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Meghana-v27/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
