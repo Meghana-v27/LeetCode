@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghana-v27/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Meghana-v27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Meghana-v27/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
 ## Enumeration
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Meghana-v27/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Meghana-v27/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Meghana-v27/LeetCode/tree/master/0184-department-highest-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Meghana-v27/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Meghana-v27/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
