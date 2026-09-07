@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Meghana-v27/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Meghana-v27/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Meghana-v27/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Meghana-v27/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Meghana-v27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Meghana-v27/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Meghana-v27/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Meghana-v27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Meghana-v27/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Meghana-v27/LeetCode/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/Meghana-v27/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Meghana-v27/LeetCode/tree/master/0217-contains-duplicate) |
 ## Enumeration
