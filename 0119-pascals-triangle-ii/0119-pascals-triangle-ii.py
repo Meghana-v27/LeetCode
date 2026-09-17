@@ -1,12 +1,8 @@
 class Solution:
     def getRow(self, rowIndex: int) -> list[int]:
-        res=[]
-        for i in range(0,rowIndex+1):
-            temp=[]
-            for j in range(0,i+1):
-                if j==0 or j==i:
-                    temp.append(1)
-                else:
-                    temp.append(res[i-1][j-1]+res[i-1][j])
-            res.append(temp)
-        return res[rowIndex]
+        res=[1]*(rowIndex+1)
+        for i in range(2,rowIndex+1):
+            for j in range(i-1,0,-1):
+                res[j]+=res[j-1]
+        return res
+        
