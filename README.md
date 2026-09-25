@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Meghana-v27/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Meghana-v27/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Meghana-v27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Meghana-v27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Meghana-v27/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meghana-v27/LeetCode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Meghana-v27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Meghana-v27/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Meghana-v27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
