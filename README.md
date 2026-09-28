@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Meghana-v27/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Meghana-v27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Meghana-v27/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Meghana-v27/LeetCode/tree/master/0344-reverse-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghana-v27/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Meghana-v27/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Meghana-v27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Meghana-v27/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Meghana-v27/LeetCode/tree/master/0118-pascals-triangle) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Meghana-v27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Meghana-v27/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
