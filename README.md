@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Meghana-v27/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Meghana-v27/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Meghana-v27/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Meghana-v27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Meghana-v27/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Meghana-v27/LeetCode/tree/master/0118-pascals-triangle) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meghana-v27/LeetCode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Meghana-v27/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
