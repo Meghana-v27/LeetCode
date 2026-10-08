@@ -7,7 +7,7 @@ class Solution:
         h=n
         ans=-1
         while l<=h:
-            mid=(l+h)//2
+            mid=l+(h-l)//2
             if isBadVersion(mid):
                 ans=mid
                 h=mid-1
