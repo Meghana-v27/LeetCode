@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Meghana-v27/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Meghana-v27/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Meghana-v27/LeetCode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Meghana-v27/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghana-v27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meghana-v27/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Meghana-v27/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Meghana-v27/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
 | ------- |
