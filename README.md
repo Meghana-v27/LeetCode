@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Meghana-v27/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Meghana-v27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Meghana-v27/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Meghana-v27/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Meghana-v27/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Meghana-v27/LeetCode/tree/master/0344-reverse-string) |
 ## String
@@ -146,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana-v27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Meghana-v27/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Meghana-v27/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Meghana-v27/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
